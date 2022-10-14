@@ -1,3 +1,17 @@
 [build-system]
 requires = ["hatchling"]
 build-backend = "hatchling.build"
+[project]
+name = "example_package_SorokaD"
+version = "0.0.1"
+authors = [
+  { name="SorokaD", email="sorokadn@list.ru" },
+]
+description = "A small example package SorokaD"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
