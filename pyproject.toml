@@ -2,7 +2,7 @@
 requires = ["hatchling"]
 build-backend = "hatchling.build"
 [project]
-name = "example_package_SorokaD"
+name = "NLP_task_ASU_SorokaD"
 version = "0.0.1"
 authors = [
   { name="SorokaD", email="sorokadn@list.ru" },
